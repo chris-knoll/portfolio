@@ -8,7 +8,7 @@
 	}
 	else //Delete the cookies
 	{
-		setcookie('user', '', time()-3600, '/', '', 0, 0);
+		setcookie('user', '', time()-3600);
 	}
 
 	header('Location: index.php');
