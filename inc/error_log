@@ -1,0 +1,2 @@
+[19-Mar-2016 05:20:46 America/Chicago] PHP Warning:  require_once(../../../db.php): failed to open stream: No such file or directory in /home/cknoll/public_html/it305/portfolio/inc/sendmessage.php on line 41
+[19-Mar-2016 05:20:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../../db.php' (include_path='.:/opt/php54/lib/php') in /home/cknoll/public_html/it305/portfolio/inc/sendmessage.php on line 41
